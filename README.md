@@ -1,4 +1,4 @@
-####This project helps to understand the working of Hibernate-search-orm with spring data JPA which provide Full Text Search
+#### This project helps to understand the working of Hibernate-search-orm with spring data JPA which provide Full Text Search
 
 *For more* : [https://www.baeldung.com/hibernate-search](https://www.baeldung.com/hibernate-search)   
 
