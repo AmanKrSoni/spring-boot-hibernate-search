@@ -7,4 +7,4 @@
 * Install Dependencies : ``mvn clean install``
 * Now run application : ``java -jar target/spring-boot-fts.jar``
 
-*Note* : We have used Postgres for demo here but you can use on your need you cnn use H2, Mysql etc
+*Note* : We have used Postgres for demo here but you can use on your need you can use H2, Mysql etc
